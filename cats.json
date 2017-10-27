@@ -23,6 +23,10 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-3"
+		},
+		{
+			"photo": "http://i0.kym-cdn.com/photos/images/newsfeed/000/114/779/0002.gif?1303045612",
+			"name": "Rainbow cat"
 		}
 	]
 }
